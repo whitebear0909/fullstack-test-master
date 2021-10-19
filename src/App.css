@@ -1,0 +1,7 @@
+/* Day Item hover style */
+.bg-secondary:hover, .bg-secondary:focus, .bg-secondary:active, .bg-secondary.active{
+  background-color: #8a949d!important;
+}
+.day-item:hover {
+  cursor: pointer;
+}
